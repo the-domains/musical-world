@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Musical-World]]></title>
         <description><![CDATA[Musical-World]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/musical-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 00:17:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 13:33:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musical-world/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa8becda-7d9d-40e3-8922-53f34fc67dab.jpg">]]></description>
+            <link>https://thegrid.ai/musical-world/39d6b574-d4b7-4f1b-95cd-17aae770f337/index.html</link>
+            <guid isPermaLink="false">39d6b574-d4b7-4f1b-95cd-17aae770f337</guid>
+            <pubDate>Sun, 27 Dec 2015 13:33:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Musical-World bietet kostenlose Online-Rezensionen zum Thema Musical, ob im Theater, auf DVD / BluRay, auf CD oder in der Literatur.
 Viel Spaß in der Welt des Musicalswww.musical-world.de</p>]]></description>
-            <link>undefinedb54c232b-90dd-4cca-b94a-3e7a8edbb7bd/index.html</link>
+            <link>https://thegrid.ai/musical-world/b54c232b-90dd-4cca-b94a-3e7a8edbb7bd/index.html</link>
             <guid isPermaLink="false">b54c232b-90dd-4cca-b94a-3e7a8edbb7bd</guid>
             <pubDate>Sun, 27 Dec 2015 00:17:41 GMT</pubDate>
         </item>
