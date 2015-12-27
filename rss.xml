@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Musical-World]]></title>
-        <description><![CDATA[Musical-World]]></description>
+        <title><![CDATA[Informationen zum Thema Musicals]]></title>
+        <description><![CDATA[Informationen zum Thema Musicals]]></description>
         <link>https://thegrid.ai/musical-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 13:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 13:55:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musical-world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa8becda-7d9d-40e3-8922-53f34fc67dab.jpg">]]></description>
             <link>https://thegrid.ai/musical-world/39d6b574-d4b7-4f1b-95cd-17aae770f337/index.html</link>
             <guid isPermaLink="false">39d6b574-d4b7-4f1b-95cd-17aae770f337</guid>
-            <pubDate>Sun, 27 Dec 2015 13:33:46 GMT</pubDate>
+            <pubDate>Sun, 27 Dec 2015 13:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
