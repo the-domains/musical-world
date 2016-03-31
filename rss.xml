@@ -4,7 +4,7 @@
         <description><![CDATA[Musical-World: Informationen zum Thema Musicals]]></description>
         <link>https://thegrid.ai/musical-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 14:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 14:24:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musical-world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Musical-World]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/musical-world/39d6b574-d4b7-4f1b-95cd-17aae770f337/index.html</link>
             <guid isPermaLink="false">39d6b574-d4b7-4f1b-95cd-17aae770f337</guid>
             <pubDate>Mon, 28 Dec 2015 23:20:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aktuelle Musicals und Premieren in Deutschland Tickets - Musical-World]]></title>
+            <description><![CDATA[<article><h1>Aktuelle Musicals und Premieren in Deutschland Tickets - Musical-World</h1><p>Lange währte der Abschied von "Tanz der Vampire" nicht - nach nicht einmal drei Jahren kehrt die Stage Produktion diesen Monat ins Theater des Westens zurück. Ab Oktober ziehen die Vampire dann weiter nach München. In der Rolle des Grafen von Krolock ist zuerst Mark Seibert bis Juli zu sehen, danach übernimmt Jan Ammann den beissfreudigen Vampirfürsten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e3a8b9606aa6205f3a9716628babc5afbfc889e.jpg"></article>]]></description>
+            <link>http://www.musical-world.de/theater/tickets-premieren/</link>
+            <guid isPermaLink="false">ad16cc7e-be67-49db-a981-142f170d606a</guid>
+            <pubDate>Thu, 31 Mar 2016 14:24:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aktuelle Musicals und Premieren in Deutschland Tickets - Musical-World]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.musical-world.de/theater/musicals-m-r/medicus/</link>
             <guid isPermaLink="false">47b80f31-d63b-4b7f-855e-876b3516313d</guid>
             <pubDate>Sun, 27 Dec 2015 14:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die Schatzinsel Musical Fulda 2015 - Musical-World]]></title>
-            <description><![CDATA[<article><h1>Die Schatzinsel Musical Fulda 2015 - Musical-World</h1><p>Robert Louis Stevenson wurde am 13.11.1850 in Edinburgh geboren und litt an Tuberkulose, die den schottischen Schriftsteller nur 44 Jahre alt werden ließ. Seine bekanntesten Werke sind das Jugendbuch Die Schatzinsel und der Horrorroman Der seltsame Fall des Dr. Jekyll und Mr. Hyde, der 1990 von Frank Wildhorn zu einem Musical adaptiert wurde.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b979005bf05e02be8804a7fe5465b1a0e4c1bef1.jpg"></article>]]></description>
-            <link>http://www.musical-world.de/theater/musicals-alphabetisch/musicals-s/schatzinsel/fulda-2015/</link>
-            <guid isPermaLink="false">cc20bdb8-6efb-45d7-9b77-342e291f9601</guid>
-            <pubDate>Sun, 27 Dec 2015 14:27:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
