@@ -1,7 +1,7 @@
 name: Musical-World
 favicon: null
-layout_spectrum: 0.1639
-typography_spectrum: 0.3893617
+layout_spectrum: 0.11574
+typography_spectrum: 0.40501
 title: 'Musical-World: Informationen zum Thema Musicals'
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#981205'
     - '#26425a'
   brandStrength: 0.25
-  lightness: 0.375
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
