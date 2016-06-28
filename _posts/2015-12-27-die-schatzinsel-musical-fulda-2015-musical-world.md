@@ -1,26 +1,31 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  http://www.musical-world.de/theater/musicals-alphabetisch/musicals-s/schatzinsel/fulda-2015/
+inLanguage: de
+starred: false
+keywords: []
+description: >-
+  Robert Louis Stevenson wurde am 13.11.1850 in Edinburgh geboren und litt an
+  Tuberkulose, die den schottischen Schriftsteller nur 44 Jahre alt werden ließ.
+  Seine bekanntesten Werke sind das Jugendbuch Die Schatzinsel und der
+  Horrorroman Der seltsame Fall des Dr. Jekyll und Mr. Hyde, der 1990 von Frank
+  Wildhorn zu einem Musical adaptiert wurde.
+datePublished: '2016-06-28T16:58:06.506Z'
+dateModified: '2016-04-20T14:57:56.670Z'
 author: []
 related: []
+app_links: []
+title: Die Schatzinsel Musical Fulda 2015 - Musical-World
+sourcePath: _posts/2015-12-27-die-schatzinsel-musical-fulda-2015-musical-world.md
+authors: []
 publisher:
   name: Musical-world
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
-keywords: []
-description: 'Robert Louis Stevenson wurde am 13.11.1850 in Edinburgh geboren und litt an Tuberkulose, die den schottischen Schriftsteller nur 44 Jahre alt werden ließ. Seine bekanntesten Werke sind das Jugendbuch Die Schatzinsel und der Horrorroman Der seltsame Fall des Dr. Jekyll und Mr. Hyde, der 1990 von Frank Wildhorn zu einem Musical adaptiert wurde.'
-inLanguage: de
-app_links: []
-isBasedOnUrl: 'http://www.musical-world.de/theater/musicals-alphabetisch/musicals-s/schatzinsel/fulda-2015/'
-title: Die Schatzinsel Musical Fulda 2015 - Musical-World
-datePublished: '2015-12-27T14:27:52.133Z'
-dateModified: '2015-12-27T14:27:43.468Z'
-sourcePath: _posts/2015-12-27-die-schatzinsel-musical-fulda-2015-musical-world.md
-published: true
-starred: false
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
