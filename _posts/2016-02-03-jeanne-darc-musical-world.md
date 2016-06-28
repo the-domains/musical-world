@@ -1,24 +1,31 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.musical-world.de'
-  name: Musical-world
-  favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
-  domain: www.musical-world.de
-keywords: []
-description: 'Das unerschrockene, von vermeintlich göttlichen Visionen beflügelte Bauernmädel wurde gerade mal 19 Jahre alt. Dann legte der Scharfrichter auf Geheiß der Engländer die Lunte an den Scheiterhaufen. Was übrig blieb, war ein Häufchen Asche. 20 Jahre später wurde daraus eine französische Nationalheldin und später sogar eine Heilige.'
-inLanguage: de
-app_links: []
-isBasedOnUrl: 'http://www.musical-world.de/theater/musicals-alphabetisch/musicals-i-l/jeanne-darc/'
-title: "Jeanne D'Arc - Musical-World"
-datePublished: '2016-02-03T16:00:41.526Z'
-dateModified: '2016-02-03T16:00:13.358Z'
-sourcePath: _posts/2016-02-03-jeanne-darc-musical-world.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  http://www.musical-world.de/theater/musicals-alphabetisch/musicals-i-l/jeanne-darc/
+inLanguage: de
+starred: false
+keywords: []
+description: >-
+  Das unerschrockene, von vermeintlich göttlichen Visionen beflügelte
+  Bauernmädel wurde gerade mal 19 Jahre alt. Dann legte der Scharfrichter auf
+  Geheiß der Engländer die Lunte an den Scheiterhaufen. Was übrig blieb, war ein
+  Häufchen Asche. 20 Jahre später wurde daraus eine französische Nationalheldin
+  und später sogar eine Heilige.
+datePublished: '2016-06-28T16:56:27.132Z'
+dateModified: '2016-04-20T14:56:15.163Z'
+author: []
+related: []
+app_links: []
+title: Jeanne D'Arc - Musical-World
+sourcePath: _posts/2016-02-03-jeanne-darc-musical-world.md
+authors: []
+publisher:
+  name: Musical-world
+  domain: www.musical-world.de
+  url: 'http://www.musical-world.de'
+  favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
