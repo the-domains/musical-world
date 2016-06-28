@@ -1,26 +1,31 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  http://www.musical-world.de/theater/musicals-alphabetisch/musicals-a-c/bodyguard/premiere-koeln/
+inLanguage: de
+starred: false
+keywords: []
+description: >-
+  Da dürfte auch Whitney Houston auf Wolke 7 begeistert sein Dieser "Babysitter"
+  ist unschlagbar! Wer den Film mochte, wird die Inszenierung lieben! Und
+  begeistert sein. Stalker und Attentäter haben im "Blauen Müllsack" in Köln bis
+  auf weiteres ganz schlechte Karten. Weil Frank Farmer ein ganz ausgeschlafenes
+  Kerlchen ist und, wenn's denn sein muss, schneller schießt als sein Schatten.
+datePublished: '2016-06-28T16:57:50.999Z'
+dateModified: '2016-04-20T14:57:42.677Z'
 author: []
 related: []
+app_links: []
+title: Bodyguard Musical Köln 2015 - Musical-World
+sourcePath: _posts/2015-12-27-bodyguard-musical-koln-2015-musical-world.md
+authors: []
 publisher:
   name: Musical-world
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
-keywords: []
-description: "Da dürfte auch Whitney Houston auf Wolke 7 begeistert sein Dieser \"Babysitter\" ist unschlagbar! Wer den Film mochte, wird die Inszenierung lieben! Und begeistert sein. Stalker und Attentäter haben im \"Blauen Müllsack\" in Köln bis auf weiteres ganz schlechte Karten. Weil Frank Farmer ein ganz ausgeschlafenes Kerlchen ist und, wenn's denn sein muss, schneller schießt als sein Schatten."
-inLanguage: de
-app_links: []
-isBasedOnUrl: 'http://www.musical-world.de/theater/musicals-alphabetisch/musicals-a-c/bodyguard/premiere-koeln/'
-title: Bodyguard Musical Köln 2015 - Musical-World
-datePublished: '2015-12-27T14:43:57.177Z'
-dateModified: '2015-12-27T14:43:50.712Z'
-sourcePath: _posts/2015-12-27-bodyguard-musical-koln-2015-musical-world.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
-authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
