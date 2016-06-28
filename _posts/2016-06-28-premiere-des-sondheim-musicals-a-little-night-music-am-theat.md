@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' 1955 avancierte Ingmar Bergmans Film Das Lächeln einer Sommernacht (Originaltitel Sommarnattens leende) zu einem ungeahnten Erfolg, der dem schwedischen Regisseur schlagartig zu Weltruhm verhalf. Selbst im 21. Jahrhundert rangiert der Klassiker laut TIME Magazine unter den Top 100 der besten Filme aller Zeiten. Musical-Komponist Stephen Sondheim adaptierte 1973 den Stoff für seine Version der wirren wie komischen und zugleich packenden Amourösitäten im Musical A Little Night Music. Vor dem Hintergrund der schwedischen Mittsommernacht, in der es bekanntlich nicht dunkel wird, beleuchtet Sondheim das Finden, (Wieder-)Entdecken und Trennen von Paaren, die sich in rasender Unruhe auf dem Anwesen der »weisen« Madame Armfeldt ausleben.'
-datePublished: '2016-06-28T14:35:24.207Z'
-dateModified: '2016-06-28T14:33:49.445Z'
+datePublished: '2016-06-28T16:54:38.113Z'
+dateModified: '2016-06-28T16:54:37.594Z'
 title: ''
 author: []
 sourcePath: >-
