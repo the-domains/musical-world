@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.musical-world.de/theater/musicals-a-c/aladdin/'
 inLanguage: de
-starred: false
 keywords: []
 description: >-
   Stage Entertainment präsentiert die weiteren Hauptdarsteller und das Ensemble
@@ -13,9 +12,11 @@ description: >-
   Titelrolle „Aladdin" und Myrthes Monteiro als „Prinzessin Jasmin" steht jetzt
   das komplette 38-köpfige Ensemble des neuen Disney Musicals ALADDIN fest, das
   Anfang Dezember im Hamburger Stage Theater Neue Flora Premiere feiern wird.
-datePublished: '2016-06-28T16:57:15.225Z'
-dateModified: '2016-04-20T14:57:06.394Z'
-author: []
+datePublished: '2016-08-23T12:19:09.555Z'
+dateModified: '2016-06-28T16:57:24.647Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Aladdin Disney-Musical Hamburg 2015 - Musical-World
@@ -26,6 +27,7 @@ publisher:
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
