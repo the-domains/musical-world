@@ -5,7 +5,6 @@ inNav: false
 isBasedOnUrl: >-
   http://www.musical-world.de/theater/musicals-alphabetisch/musicals-i-l/jeanne-darc/
 inLanguage: de
-starred: false
 keywords: []
 description: >-
   Das unerschrockene, von vermeintlich göttlichen Visionen beflügelte
@@ -13,9 +12,11 @@ description: >-
   Geheiß der Engländer die Lunte an den Scheiterhaufen. Was übrig blieb, war ein
   Häufchen Asche. 20 Jahre später wurde daraus eine französische Nationalheldin
   und später sogar eine Heilige.
-datePublished: '2016-06-28T16:56:27.132Z'
-dateModified: '2016-04-20T14:56:15.163Z'
-author: []
+datePublished: '2016-08-23T12:19:02.191Z'
+dateModified: '2016-06-28T16:56:36.335Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Jeanne D'Arc - Musical-World
@@ -26,6 +27,7 @@ publisher:
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
