@@ -42,4 +42,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Musical-World
+description: Informationen zum Thema Musicals
 purpose: []
