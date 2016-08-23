@@ -4,15 +4,14 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.musical-world.de/interaktiv/gewinnspiele/'
 inLanguage: de
-starred: false
 keywords: []
 description: >-
-  Aktuelles Gewinnspiel: 4x2 Karten für das Musical Frankenstein In Kooperation
+  Aktuelles Gewinnspiel: 4x2 Karten für das Musical Frankenstein  In Kooperation
   mit RuhrMusical verlosen wir ab Aschermittwoch bis Samstag täglich je zwei PK1
   Eintrittskarten für Frankenstein - das neue Musical am Sonntag, den 14.02.16
   um 17:00 Uhr in Bergisch Gladbach!
-datePublished: '2016-06-28T16:56:14.517Z'
-dateModified: '2016-04-20T14:55:54.451Z'
+datePublished: '2016-08-23T12:19:00.556Z'
+dateModified: '2016-06-28T16:56:22.406Z'
 author:
   - name: ''
     url: ''
@@ -28,6 +27,7 @@ publisher:
   url: 'http://www.musical-world.de'
   favicon: >-
     http://mw.lvps178-77-103-24.dedicated.hosteurope.de/fileadmin/img/favicon.ico
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
