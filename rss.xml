@@ -4,7 +4,7 @@
         <description><![CDATA[Musical-World: Informationen zum Thema Musicals]]></description>
         <link>https://thegrid.ai/musical-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 11:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:10:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musical-world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Musical-World]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/musical-world/39d6b574-d4b7-4f1b-95cd-17aae770f337/index.html</link>
             <guid isPermaLink="false">39d6b574-d4b7-4f1b-95cd-17aae770f337</guid>
             <pubDate>Tue, 28 Jun 2016 16:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imagine This Musical 2016 in Muenster - Musical-World]]></title>
+            <description><![CDATA[<article><h1>Imagine This Musical 2016 in Muenster - Musical-World</h1><p>Imagine This - Musical, Deutsche Erstaufführung des Musicals Imagine This aufgeführt von dem Freien Musical-Ensemble 2016 in Münster</p><img src="http://www.musical-world.de/typo3temp/pics/header-imagine-this_Kopf_5927e2eafb.jpg"></article>]]></description>
+            <link>http://www.musical-world.de/theater/musicals-i-l/imagine-this/</link>
+            <guid isPermaLink="false">badf7c90-ab7e-4b63-8784-51855ec0baf2</guid>
+            <pubDate>Tue, 23 Aug 2016 12:09:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Medicus Musical Weltpremiere 2016 - Musical-World]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.musical-world.de/theater/tickets-premieren/</link>
             <guid isPermaLink="false">2441b3d0-aece-4535-addd-6c2f12c23f0e</guid>
             <pubDate>Tue, 28 Jun 2016 16:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jeanne D'Arc - Musical-World]]></title>
-            <description><![CDATA[<article><h1>Jeanne D'Arc - Musical-World</h1><p>Das unerschrockene, von vermeintlich göttlichen Visionen beflügelte Bauernmädel wurde gerade mal 19 Jahre alt. Dann legte der Scharfrichter auf Geheiß der Engländer die Lunte an den Scheiterhaufen. Was übrig blieb, war ein Häufchen Asche. 20 Jahre später wurde daraus eine französische Nationalheldin und später sogar eine Heilige.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4f65677aa447100ff0f5f5096bfedca65bbff12.jpg"></article>]]></description>
-            <link>http://www.musical-world.de/theater/musicals-alphabetisch/musicals-i-l/jeanne-darc/</link>
-            <guid isPermaLink="false">c3a55861-1835-4f0f-91ed-643b0fb7b792</guid>
-            <pubDate>Tue, 28 Jun 2016 16:56:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
