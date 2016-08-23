@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.musical-world.de/theater/musicals-m-r/medicus/'
 inLanguage: de
-starred: false
 keywords: []
 description: >-
   Weltweit erste Bühnenfassung des Weltbestsellers von Noah Gordon im Rahmen des
@@ -13,9 +12,11 @@ description: >-
   Millionen Romane wurden allein in Deutschland verkauft. In 35 Ländern ist der
   Roman ein Erfolg und im beschaulichen Fulda findet die erste Bühnenadaption
   weltweit statt.
-datePublished: '2016-06-28T16:57:31.635Z'
-dateModified: '2016-04-20T14:57:31.026Z'
-author: []
+datePublished: '2016-08-23T12:19:13.555Z'
+dateModified: '2016-06-28T16:57:40.602Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Medicus Musical 2016 in Fulda - Musical-World
@@ -26,6 +27,7 @@ publisher:
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
