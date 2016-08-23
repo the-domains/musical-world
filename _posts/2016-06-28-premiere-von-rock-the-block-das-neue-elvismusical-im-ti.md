@@ -23,8 +23,8 @@ description: >-
   Der Tag der Premiere ist gekommen, das Theater ist ausverkauft, nur „Martino
   Brando“ taucht nicht auf und niemand weiß wo er ist... kann die Premiere
   trotzdem stattfinden und wenn ja, wie? 
-datePublished: '2016-06-28T16:54:21.610Z'
-dateModified: '2016-06-28T14:34:27.166Z'
+datePublished: '2016-08-23T12:18:36.736Z'
+dateModified: '2016-06-28T16:54:30.235Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-28-premiere-von-rock-the-block-das-neue-elvismusical-im-ti.md
