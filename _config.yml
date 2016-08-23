@@ -1,8 +1,34 @@
-name: Musical-World
-favicon: null
-layout_spectrum: 0.10862
 typography_spectrum: 0.40501
-title: 'Musical-World: Informationen zum Thema Musicals'
+color:
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#af870e'
+    - '#981205'
+    - '#26425a'
+  brandStrength: 0.3125
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.10862
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Stephan Drewianka
+  email: info@musical-world.de
+  url: www.musical-world.de
+name: Musical-World
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#af870e'
-    - '#981205'
-    - '#26425a'
-  brandStrength: 0.3125
-  lightness: 0.6875
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+title: 'Musical-World: Informationen zum Thema Musicals'
 purpose: []
