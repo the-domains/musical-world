@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.musical-world.de/theater/tickets-premieren/'
 inLanguage: de
-starred: false
 keywords: []
 description: >-
   Vor knapp vier Jahren feierte " Thrill Me" im KATiELLi Theater in Datteln
@@ -13,9 +12,11 @@ description: >-
   dorthin zurück. Weniger Mord und Totschlag, dafür mehr Show und Familiendrama
   bietet der Travestie-Klassiker "Ein Käfig voller Narren", der mit Andreas
   Lichtenberger als Drag-Star Zaza in Magdeburg zu sehen ist.
-datePublished: '2016-06-28T16:56:44.509Z'
-dateModified: '2016-04-20T14:56:29.059Z'
-author: []
+datePublished: '2016-08-23T12:19:04.708Z'
+dateModified: '2016-06-28T16:56:52.872Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Aktuelle Musicals und Premieren in Deutschland Tickets - Musical-World
@@ -27,6 +28,7 @@ publisher:
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
