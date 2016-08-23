@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Musical-World: Informationen zum Thema Musicals]]></title>
-        <description><![CDATA[Musical-World: Informationen zum Thema Musicals]]></description>
+        <title><![CDATA[Musical-World]]></title>
+        <description><![CDATA[Musical-World]]></description>
         <link>https://thegrid.ai/musical-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:18:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musical-world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Musical-World]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 28 Jun 2016 16:58:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Premiere von "Rock The Block - Das neue Elvis–Musical" im tic Kassel ]]></title>
+            <description><![CDATA[<p>Die Premiere von „Rhythmus hinter Gittern“ steht kurz bevor und die Endproben sind in vollem Gange. Doch leider lassen die Vorverkaufszahlen zu wünschen übrig. Dann springt auch noch der Hauptsponsor ab und der Chef des Theaters weiß nicht mehr, wie er die Rechnungen und die Künstler bezahlen soll. Doch dann kommt ihm eine zündende Idee! Die Rolle des „Clark“ soll durch „Martino Brando“, einem B-Promi bekannt aus Vorabendserien, ersetzt werden. Martino Brando ist ein alter Freund aus Jugendzeiten. So will der Chef die Zuschauerzahlen in die Höhe treiben. Zum Wohle des Theaters ziehen die Regisseurin „Wiebke“ und der bisherige „Clark“ Darsteller „Phil“ notgedrungen mit. „Martino“ bleiben nur wenige Tage um die Rolle einzustudieren, außerdem entpuppt er sich als unzuverlässiger, arroganter Schnösel. Auch als Darsteller liefert er keine überzeugende Arbeit ab. Die Komplikationen verschärfen sich, als die weibliche Hauptdarstellerin „Patrizia“ eine Affäre mit ihm beginnt und es so scheint, dass auch „Wiebke“ sich auf den Draufgänger einlässt. „Phil“, den eine langjährige Freundschaft mit „Wiebke“ verbindet, ist tief enttäuscht. Der Tag der Premiere ist gekommen, das Theater ist ausverkauft, nur „Martino Brando“ taucht nicht auf und niemand weiß wo er ist... kann die Premiere trotzdem stattfinden und wenn ja, wie? </p>]]></description>
+            <link>https://thegrid.ai/musical-world/premiere-von-rock-the-block-das-neue-elvismusical-im-ti/index.html</link>
+            <guid isPermaLink="false">3d03023f-0a4d-4ba9-909b-c8d2fbfb7458</guid>
+            <pubDate>Tue, 23 Aug 2016 12:18:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Imagine This Musical 2016 in Muenster - Musical-World]]></title>
-            <description><![CDATA[<article><h1>Imagine This Musical 2016 in Muenster - Musical-World</h1><p>Imagine This - Musical, Deutsche Erstaufführung des Musicals Imagine This aufgeführt von dem Freien Musical-Ensemble 2016 in Münster</p><img src="http://www.musical-world.de/typo3temp/pics/header-imagine-this_Kopf_5927e2eafb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Imagine This Musical 2016 in Muenster - Musical-World</h1><p>Imagine This - Musical, Deutsche Erstaufführung des Musicals Imagine This aufgeführt von dem Freien Musical-Ensemble 2016 in Münster</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b161860ae24434317c7b352ff85b8e80/noop.jpg?input=http%3A%2F%2Fwww.musical-world.de%2Ftypo3temp%2Fpics%2Fheader-imagine-this_Kopf_5927e2eafb.jpg"></article>]]></description>
             <link>http://www.musical-world.de/theater/musicals-i-l/imagine-this/</link>
             <guid isPermaLink="false">badf7c90-ab7e-4b63-8784-51855ec0baf2</guid>
             <pubDate>Tue, 23 Aug 2016 12:09:41 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.musical-world.de/theater/musicals-t-z/thrill-me/bottrop-2015/</link>
             <guid isPermaLink="false">c90f77d1-73fe-4358-983c-604d3f83d2af</guid>
             <pubDate>Tue, 28 Jun 2016 16:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aktuelle Musicals und Premieren in Deutschland Tickets - Musical-World]]></title>
-            <description><![CDATA[<article><h1>Aktuelle Musicals und Premieren in Deutschland Tickets - Musical-World</h1><p>Vor knapp vier Jahren feierte " Thrill Me" im KATiELLi Theater in Datteln seine Deutschlandpremiere - nun kehrt das Zwei-Personen-Stück, das auf einem wahren Kriminalfall aus den 20er Jahren beruht, in einer neuen Inszenierung dorthin zurück. Weniger Mord und Totschlag, dafür mehr Show und Familiendrama bietet der Travestie-Klassiker "Ein Käfig voller Narren", der mit Andreas Lichtenberger als Drag-Star Zaza in Magdeburg zu sehen ist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4434b42ff3bea354a18fff156b5a7ea92e1ed7be.jpg"></article>]]></description>
-            <link>http://www.musical-world.de/theater/tickets-premieren/</link>
-            <guid isPermaLink="false">2441b3d0-aece-4535-addd-6c2f12c23f0e</guid>
-            <pubDate>Tue, 28 Jun 2016 16:56:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
