@@ -5,7 +5,6 @@ inNav: false
 isBasedOnUrl: >-
   http://www.musical-world.de/theater/musicals-alphabetisch/musicals-s/schatzinsel/fulda-2015/
 inLanguage: de
-starred: false
 keywords: []
 description: >-
   Robert Louis Stevenson wurde am 13.11.1850 in Edinburgh geboren und litt an
@@ -13,9 +12,11 @@ description: >-
   Seine bekanntesten Werke sind das Jugendbuch Die Schatzinsel und der
   Horrorroman Der seltsame Fall des Dr. Jekyll und Mr. Hyde, der 1990 von Frank
   Wildhorn zu einem Musical adaptiert wurde.
-datePublished: '2016-06-28T16:58:06.506Z'
-dateModified: '2016-04-20T14:57:56.670Z'
-author: []
+datePublished: '2016-08-23T12:19:16.963Z'
+dateModified: '2016-06-28T16:58:15.594Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Die Schatzinsel Musical Fulda 2015 - Musical-World
@@ -26,6 +27,7 @@ publisher:
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
