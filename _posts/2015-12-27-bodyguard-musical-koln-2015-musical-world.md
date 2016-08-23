@@ -5,7 +5,6 @@ inNav: false
 isBasedOnUrl: >-
   http://www.musical-world.de/theater/musicals-alphabetisch/musicals-a-c/bodyguard/premiere-koeln/
 inLanguage: de
-starred: false
 keywords: []
 description: >-
   Da dürfte auch Whitney Houston auf Wolke 7 begeistert sein Dieser "Babysitter"
@@ -13,9 +12,11 @@ description: >-
   begeistert sein. Stalker und Attentäter haben im "Blauen Müllsack" in Köln bis
   auf weiteres ganz schlechte Karten. Weil Frank Farmer ein ganz ausgeschlafenes
   Kerlchen ist und, wenn's denn sein muss, schneller schießt als sein Schatten.
-datePublished: '2016-06-28T16:57:50.999Z'
-dateModified: '2016-04-20T14:57:42.677Z'
-author: []
+datePublished: '2016-08-23T12:19:15.539Z'
+dateModified: '2016-06-28T16:57:59.882Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Bodyguard Musical Köln 2015 - Musical-World
@@ -26,6 +27,7 @@ publisher:
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
