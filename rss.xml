@@ -4,7 +4,7 @@
         <description><![CDATA[Musical-World]]></description>
         <link>https://thegrid.ai/musical-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:18:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/musical-world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Musical-World]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/musical-world/39d6b574-d4b7-4f1b-95cd-17aae770f337/index.html</link>
             <guid isPermaLink="false">39d6b574-d4b7-4f1b-95cd-17aae770f337</guid>
             <pubDate>Tue, 28 Jun 2016 16:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deutsche Erstaufführung des Musicals THE PIRATE QUEEN am Theater Nordhausen ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f33bac77-f32c-4626-910d-220cfd95f064.jpg">]]></description>
+            <link>https://thegrid.ai/musical-world/deutsche-erstauffuhrung-des-musicals-the-pirate-queen-am-the/index.html</link>
+            <guid isPermaLink="false">43f9a3fb-2206-4a37-a53b-a2d23d600b7e</guid>
+            <pubDate>Tue, 23 Aug 2016 12:18:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Premiere von "Rock The Block - Das neue Elvis–Musical" im tic Kassel ]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.musical-world.de/theater/musicals-a-c/aladdin/</link>
             <guid isPermaLink="false">3778e88b-9d2c-44fd-8d92-e98b854f76e9</guid>
             <pubDate>Tue, 28 Jun 2016 16:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thrill Me - Musical 2015 in Bottrop - Musical-World]]></title>
-            <description><![CDATA[<article><h1>Thrill Me - Musical 2015 in Bottrop - Musical-World</h1><p>Als ich hörte, dass „Show & Entertain" in Bottrop das Musical „ Thrill Me " auf die Bühne bringt, war ich tatsächlich skeptisch, ob das schauspielerisch extrem herausfordernde Thema über zwei Jura-Studenten, die aus fehlgeleiteter Weltanschauung und Fixierung auf den nächsten Kick schließlich einen kleinen Jungen entführen und ermorden, bei zwei Darstellern, die zwar mit ganzem Herzen Musik und Theater lieben, dies aber „nur" als ambitionierte Amateure nicht hauptberuflich, sondern nur als Hobby betreiben, in den richtigen Händen liegt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36361a24816e176161b1275dafc53212cf2790ec.jpg"></article>]]></description>
-            <link>http://www.musical-world.de/theater/musicals-t-z/thrill-me/bottrop-2015/</link>
-            <guid isPermaLink="false">c90f77d1-73fe-4358-983c-604d3f83d2af</guid>
-            <pubDate>Tue, 28 Jun 2016 16:56:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
