@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.musical-world.de/theater/musicals-t-z/thrill-me/bottrop-2015/'
 inLanguage: de
-starred: false
 keywords: []
 description: >-
   Als ich hörte, dass „Show & Entertain" in Bottrop das Musical „ Thrill Me "
@@ -15,9 +14,11 @@ description: >-
   Herzen Musik und Theater lieben, dies aber „nur" als ambitionierte Amateure
   nicht hauptberuflich, sondern nur als Hobby betreiben, in den richtigen Händen
   liegt.
-datePublished: '2016-06-28T16:56:58.299Z'
-dateModified: '2016-04-20T14:56:53.449Z'
-author: []
+datePublished: '2016-08-23T12:19:06.146Z'
+dateModified: '2016-06-28T16:57:07.412Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Thrill Me - Musical 2015 in Bottrop - Musical-World
@@ -28,6 +29,7 @@ publisher:
   domain: www.musical-world.de
   url: 'http://www.musical-world.de'
   favicon: 'http://www.musical-world.de/fileadmin/img/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
